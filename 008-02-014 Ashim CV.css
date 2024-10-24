@@ -1,0 +1,44 @@
+header,footer{
+	  background-color: silver;
+	  text-align: center;
+	  padding:30px;
+	  margin: 0 auto;
+}
+nav{
+	text-align:center;
+	padding:10px,20px;
+	background-color:pink;
+	color:red;
+}
+header img{
+	 border-radius:10%;
+	 object-fit:cover;
+	 }
+table{
+	background-color: blanchedalmond;
+	font-family: arial, helbatica, sans-serif;
+	padding:50px;
+}
+ul{
+	background-color: blanchedalmond;
+	font-family: arial, helbatica, sans-serif;
+	padding:50px;
+}
+td,tr{
+	border:2px solid #ddd;
+	padding:0 35px;
+	text-align:center;
+	margin: 0 auto;
+}
+table tr:hover{
+	background-color:gray;
+	text-align: center;
+	padding:30px;
+	margin: 0 auto;
+}
+img:hover{
+	border:2px solid blue;
+	max-width: 800px;
+	margin:0 auto;
+	border-radius:5px;
+}
